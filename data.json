@@ -1,0 +1,23 @@
+
+{
+    "basics":{
+        "name":"sai",
+        "role":"std",
+        "email":"abc@gmail.com",
+        "mobile_no":"9112345678",
+        "education":[
+        {
+            "degree":"SSC",
+            "pecentage":8.0
+        },
+        {
+            "degree":"INTER",
+            "pecentage":8.7
+        },
+        {
+            "degree":"B.TECH",
+            "pecentage":8.0
+        }
+        ]
+    }
+}

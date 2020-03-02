@@ -1,0 +1,47 @@
+.side{
+  /* background-color:skyblue; */
+  width: 100%;
+  /* how to display our content on the screen!! */
+  justify-content:stretch; 
+ display:flex;
+}
+img{border-radius: 500%;}
+/* this is id so we represntesd with the symbol  #*/
+#side2
+{
+  margin:10px; 
+  width:80%;
+text-align:left;
+  background-color:gray;
+ 
+
+}  
+img {
+  background-color: lightgrey;
+  width: 150px;
+  border: 5px solid black;
+  padding: 5px;
+  margin: 20px;
+}
+#side1{
+  
+  width:20%;
+text-align: center;
+  background-color:bisque;
+ 
+
+}
+
+/* @media only screen and (min-device-width:461px) and (max-device-width:780px){ */
+ /* .side{ */
+   /* dispay:flex; */
+   /* width:100%; */
+ /* } */
+ /* #side2{ */
+   /* width:100%; */
+ /* } */
+
+ 
+    
+  }
+}
